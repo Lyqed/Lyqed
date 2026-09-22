@@ -5,7 +5,7 @@ Hi. I run AI infrastructure at a large insurer by day. Here are some things I've
 **Small tools** for people who think in notes: Obsidian plugins for [Anki cards from bullets](https://github.com/Lyqed/obsidian-markki), [copying a note raw](https://github.com/Lyqed/copy-as-note), and [finding hidden links in a vault](https://github.com/Lyqed/mycelium).
 
 
-Finally, [**Worth Building**](https://worthbuilding.org/), a set of websites, stories and autological domains.
+Finally, [**Worth Building**](https://worthbuilding.org/), a set of stories, visual art pieces, and autological domains.
 
 
 Writing at [antonbraverman.com](https://antonbraverman.com). Say hello: hello@itslyqed.com.
