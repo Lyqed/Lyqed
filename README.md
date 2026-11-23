@@ -4,6 +4,6 @@ Hi. I run AI infrastructure at a large insurer by day. Here are some things I've
 
 **Small tools for people who think in notes:** Obsidian plugins for [Anki cards from bullets](https://github.com/Lyqed/obsidian-markki), [copying a note raw](https://github.com/Lyqed/copy-as-note), and [finding hidden links in a vault](https://github.com/Lyqed/mycelium).
 
-Explore startup exits, liquidity and insurance. Change the assumptions and inspect every calculation: [beyoundyourvaluation.com](https://beyondyourvaluation.com/)
+Explore startup exits, liquidity and insurance. Change the assumptions and inspect every calculation: [beyoundyourvaluation.com](https://beyondyourvaluation.com/).
 
 Writing at [antonbraverman.com](https://antonbraverman.com). Say hello: [hello@itslyqed.com](mailto:hello@itslyqed.com).
